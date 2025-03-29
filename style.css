@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    font-family: Happy Monkey;
+}
+.flag{
+    font-size: small;
+}
+hr{
+    border-radius: 33px;
+    height: 2px;
+    background-color: white;
+}
